@@ -1,0 +1,4 @@
+#Wed Dec 27 08:48:12 ICT 2017
+base.0=E\:\\WeltesDev\\Android Project\\RecyclerIntro\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
